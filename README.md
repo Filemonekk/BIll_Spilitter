@@ -22,5 +22,5 @@ This is a simple web application designed to help users split a bill among a gro
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bill-splitter.git
+   git clone(https://github.com/Filemonekk/BIll_Spilitter.git)
 2. Open the index.html file in your browser to start using the application.

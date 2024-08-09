@@ -1,7 +1,7 @@
 # Bill Splitter Web Application
 
 ## Demo
-Możesz zobaczyć działanie aplikacji tutaj: [Bill Splitter Demo](https://filemonekk.github.io/Magic_Ball/)
+Możesz zobaczyć działanie aplikacji tutaj: [Bill Splitter Demo](https://filemonekk.github.io/BIll_Spilitter/)
 
 ## Overview
 This is a simple web application designed to help users split a bill among a group of people, with the added feature of calculating tips. The app is built using HTML, CSS, and JavaScript, offering an intuitive interface for real-time calculations.
